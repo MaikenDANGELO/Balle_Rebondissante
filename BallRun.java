@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
-public class BallEnvironment {
+public class BallRun {
     public static void main(String[] args){
         StdDraw.enableDoubleBuffering();
         final double minspeed = -0.015;
